@@ -3,7 +3,7 @@
 An attempt to build an interactive and maintainable web application using the Phoenix Framework. 
 I am also using this repository to experiment with elixir and its core concepts in web development.
 
-Check [phoelr](https://github.com/apostergiou/phoelr) for a more advanced project where I cover the following:
+Interesting ideas I learned/reviewed while experimenting with The Phoenix framework:
 
 - Controllers and Views
 - Ecto
